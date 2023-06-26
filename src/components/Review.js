@@ -50,7 +50,7 @@ export default function Review() {
 				/>
 			</Box>
 			{/* WRITE REVIEW */}
-			{/* <Box mt={6}>
+			<Box mt={6}>
 				<Heading bold fontSize={15} mb={2}>
 					REVIEW THIS PRODUCT
 				</Heading>
@@ -103,17 +103,17 @@ export default function Review() {
 						/>
 					</FormControl>
 					<Buttone bg={Colors.main} color={Colors.white}>
-						SUMBIT
+						SUBMIT
 					</Buttone>
 
 					<Message
-						color={Colors.white}
-						bg={Colors.black}
+						color={Colors.black}
+						bg={Colors.deepGray}
 						size={12}
 						children={'Please login to write a review'}
 					/>
 				</VStack>
-			</Box> */}
+			</Box>
 		</Box>
 	)
 }

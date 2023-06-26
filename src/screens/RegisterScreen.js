@@ -89,7 +89,7 @@ function RegisterScreen({ navigation }) {
 					SIGN UP
 				</Button>
 				<Pressable mt={4} onPress={() => navigation.navigate('Login')}>
-					<Text color={Colors.deepestGray} size='sm'>
+					<Text color={Colors.main} size='sm'>
 						SIGN UP
 					</Text>
 				</Pressable>
