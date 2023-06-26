@@ -27,7 +27,7 @@ function RegisterScreen({ navigation }) {
 				w='full'
 				h='full'
 				position='absolute'
-				top='30%'
+				top='24%'
 				px='6'
 				justifyContent='center'
 			>

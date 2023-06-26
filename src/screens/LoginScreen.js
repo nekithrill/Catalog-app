@@ -75,7 +75,7 @@ function LoginScreen({ navigation }) {
 					LOGIN
 				</Button>
 				<Pressable mt={4} onPress={() => navigation.navigate('Register')}>
-					<Text color={Colors.deepestGray} size='sm'>
+					<Text color={Colors.main} size='sm'>
 						SIGN UP
 					</Text>
 				</Pressable>
