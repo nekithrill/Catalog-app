@@ -1,7 +1,6 @@
 import React from 'react'
-import { Text, StyleSheet } from 'react-native'
+import { StyleSheet } from 'react-native'
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs'
-import HomeScreen from '../screens/HomeScreen'
 import ProfileScreen from '../screens/ProfileScreen'
 import CartScreen from '../screens/CartScreen'
 import { Center, Pressable } from 'native-base'
