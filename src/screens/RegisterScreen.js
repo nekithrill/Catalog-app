@@ -39,7 +39,7 @@ function RegisterScreen({ navigation }) {
 							<MaterialIcons name='person' size={20} color={Colors.main} />
 						}
 						variant='underlined'
-						placeholder='user@gmail.com'
+						placeholder='username'
 						w='70%'
 						type='text'
 						pl={2}
